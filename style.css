@@ -78,7 +78,7 @@ header {
 
 .banner {
     height: 100vh;
-    background-image: url(../frango/assets/comida1.jpeg);
+    background-image: url(../assets/comida1.jpeg);
     background-size: cover;
     background-position: center;
     overflow: hidden;
